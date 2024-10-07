@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @halilice
+- 👋 Hi, I’m Halil Ibrahim Celikel
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning Python, SQL, Pandas, Machine Learning 
 - 💞️ I’m looking to collaborate on the Data projects.
